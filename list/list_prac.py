@@ -1,0 +1,18 @@
+a= [3,4,5,2,7]
+a.append(50)
+print(a)
+a.extend([1,3,4])
+print(a)
+a.insert(3,300)
+print(a)
+a.pop()
+print(a)
+a.pop(1)
+print(a)
+a.remove(300)
+print(a)
+a.sort(reverse=True)
+print(a)
+a.sort()
+print(a)
+
