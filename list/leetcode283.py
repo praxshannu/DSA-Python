@@ -9,3 +9,5 @@ for i in range(len(a)):
                 a[i]=tem
                 break
 print(a)
+if(print("hii")):
+    print("-")
